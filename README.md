@@ -4,7 +4,7 @@ This is an starter application for OpenAI endpoints with NextJS application.
 
 ## Demo
 
-https://apk4all.in/video-14597251-4a0b0642f0a89f80d9d61e6d483c68be.gif
+![](https://apk4all.in/video-14597251-4a0b0642f0a89f80d9d61e6d483c68be.gif)
 
 ## Environment Variables
 
